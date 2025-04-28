@@ -13,9 +13,5 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-This is a collection of family recipes. 
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+This is a collection of family recipes, sorted by category and recipe source.
