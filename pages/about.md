@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid=img006 %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 This is a collection of family recipes, sorted by category and recipe source.
